@@ -1,4 +1,4 @@
-# Dots-Boxes
+# Modified-Dots-Boxes
 Dots and Boxes application
 
 Objective: Design and implement an agent to play against the human player in the game of Dots and Boxes. 
